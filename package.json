@@ -1,0 +1,23 @@
+{
+  "name": "dont-install-me",
+  "version": "1.0.0",
+  "description": "Don't install me.",
+  "main": "index.js",
+  "bin": {
+    "dont-install-me": "./bin/dont-install-me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasLomas/dont-install-me.git"
+  },
+  "keywords": [
+    "pointless",
+    "lol"
+  ],
+  "author": "Thomas Lomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasLomas/dont-install-me/issues"
+  },
+  "homepage": "https://github.com/ThomasLomas/dont-install-me#readme"
+}
